@@ -1,0 +1,16 @@
+Starting DBConnectionBroker Version 1.0
+dbDriver = com.mysql.jdbc.Driver
+dbURL = jdbc:mysql://localhost:3306/harisma_kti
+dbLogin = root
+dbPasswd = **********
+logfile = /usr/share/tomcat5/webapps/harismaVerX/applogs/harismaconn.log
+minconnections = 2
+maxconnections = 41
+Total refresh interval = 0.01 days
+-----------------------------------------
+Dec 09 02011 12:55:29 Opening connection 0 com.mysql.jdbc.Connection@c68a98:
+Dec 09 02011 12:55:30 Opening connection 1 com.mysql.jdbc.Connection@b51404:
+Fri Dec 09 01:10:10 CIT 2011 ***** Recycling connection 0:
+Dec 09 02011 01:10:10 Opening connection 0 com.mysql.jdbc.Connection@12a416a:
+Fri Dec 09 01:10:10 CIT 2011 ***** Recycling connection 1:
+Dec 09 02011 01:10:10 Opening connection 1 com.mysql.jdbc.Connection@12cb585:

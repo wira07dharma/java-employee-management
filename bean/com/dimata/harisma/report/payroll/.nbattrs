@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="ListOvtEmpPdf.java">
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="ListOvtEmpPdf"/>
+    </fileobject>
+    <fileobject name="ListOvtValuePdf.java">
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="ListOvtValuePdf"/>
+    </fileobject>
+    <fileobject name="ListSalaryPdf.java">
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="ListSalaryPdf"/>
+    </fileobject>
+    <fileobject name="ListSalaryTransferedPdf.java">
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="ListSalaryTransferedPdf"/>
+    </fileobject>
+    <fileobject name="ListTunjEksporPdf.java">
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="ListTunjEksporPdf"/>
+    </fileobject>
+    <fileobject name="TransferListXLS.java">
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="TransferListXLS"/>
+    </fileobject>
+    <fileobject name="mealAllowanceMontlyPdf.java">
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="mealAllowanceMontlyPdf"/>
+    </fileobject>
+    <fileobject name="mealAllowancePdf.java">
+        <attr name="class_dependency_javax.servlet.http.HttpServlet" stringvalue="mealAllowancePdf"/>
+    </fileobject>
+</attributes>
